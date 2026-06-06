@@ -1,0 +1,13 @@
+.task1-circle{
+    color: rgba(128, 128, 128, 0.467);
+}
+.task2-circle{
+    color: blueviolet;
+} 
+.task3-circle{
+    color: blueviolet;
+}
+.button-1:hover{
+    background-color: red;
+    color: white;
+}
